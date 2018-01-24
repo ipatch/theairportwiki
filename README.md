@@ -7,4 +7,8 @@
 </div>
 <br />
 
+> _You cannot help men permanently by doing for them what they will not do for themselves._<br />
+> Abraham Lincoln
+
+
 ### The [soon to be wiki](https://github.com/ipatch/theairportwiki/wiki) for TheAirPortWiki
