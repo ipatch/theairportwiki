@@ -1,0 +1,686 @@
+Script started on Sat Jul 21 15:48:16 2018
+Ptmux;]4;0;rgb:15/15/15\\Ptmux;]4;1;rgb:fb/9f/b1\\Ptmux;]4;2;rgb:ac/c2/67\\Ptmux;]4;3;rgb:dd/b2/6f\\Ptmux;]4;4;rgb:6f/c2/ef\\Ptmux;]4;5;rgb:e1/a3/ee\\Ptmux;]4;6;rgb:12/cf/c0\\Ptmux;]4;7;rgb:d0/d0/d0\\Ptmux;]4;8;rgb:50/50/50\\Ptmux;]4;9;rgb:fb/9f/b1\\Ptmux;]4;10;rgb:ac/c2/67\\Ptmux;]4;11;rgb:dd/b2/6f\\Ptmux;]4;12;rgb:6f/c2/ef\\Ptmux;]4;13;rgb:e1/a3/ee\\Ptmux;]4;14;rgb:12/cf/c0\\Ptmux;]4;15;rgb:f5/f5/f5\\Ptmux;]4;16;rgb:ed/a9/87\\Ptmux;]4;17;rgb:de/af/8f\\Ptmux;]4;18;rgb:20/20/20\\Ptmux;]4;19;rgb:30/30/30\\Ptmux;]4;20;rgb:b0/b0/b0\\Ptmux;]4;21;rgb:e0/e0/e0\\Ptmux;]Pgd0d0d0\\Ptmux;]Ph151515\\Ptmux;]Pid0d0d0\\Ptmux;]Pj303030\\Ptmux;]Pkd0d0d0\\Ptmux;]Pld0d0d0\\Ptmux;]Pm151515\\]0;~/p/bus-pirate-pg 88 x 23[30m(B[m[?2004h]0;~/p/bus-pirate-pg 88 x 23[30m(B[m[2m⏎(B[m                                                                                       ⏎ [K[38;2;255;255;255m╭─[38;2;223;0;95mcapin [38;2;255;255;255mat [38;2;223;95;0mrogue[38;2;255;255;255m in [38;2;135;255;0m/Users/capin/playground/bus-pirate-pg[38;2;95;223;255m
+[38;2;255;255;255m╰[38;2;255;255;255m─λ [30m(B[m[K[61C[38;2;102;102;102mbp.re2-7 | [38;2;102;102;102m0[38;2;102;102;102m < 15:48:17[30m(B[m[65C[4Cs[60C[38;2;102;102;102mbp.re2-7 | [38;2;102;102;102m0[38;2;102;102;102m < 15:48:17[30m(B[m[65C[5C[60C[38;2;102;102;102mbp.re2-7 | [38;2;102;102;102m0[38;2;102;102;102m < 15:48:17[30m(B[m[65C[5C[38;2;204;102;102ms[60C[30m(B[m[38;2;102;102;102mbp.re2-7 | [38;2;102;102;102m0[38;2;102;102;102m < 15:48:17[30m(B[m[65C[5C[38;2;150;152;150mcreen /dev/tty.usbserial-A4016VMX 115200[20C[30m(B[m[38;2;102;102;102mbp.re2-7 | [38;2;102;102;102m0[38;2;102;102;102m < 15:48:17[30m(B[m[65C[5C[38;2;204;102;102mc[38;2;150;152;150mreen /dev/tty.usbserial-A4016VMX 115200[20C[30m(B[m[38;2;102;102;102mbp.re2-7 | [38;2;102;102;102m0[38;2;102;102;102m < 15:48:17[30m(B[m[65C[6C[59C[38;2;102;102;102mbp.re2-7 | [38;2;102;102;102m0[38;2;102;102;102m < 15:48:17[30m(B[m[65C[6C[38;2;178;148;187msc[38;2;150;152;150mreen /dev/tty.usbserial-A4016VMX 115200[20C[30m(B[m[38;2;102;102;102mbp.re2-7 | [38;2;102;102;102m0[38;2;102;102;102m < 15:48:17[30m(B[m[65C[6C[38;2;178;148;187mr[38;2;150;152;150meen /dev/tty.usbserial-A4016VMX 115200[20C[30m(B[m[38;2;102;102;102mbp.re2-7 | [38;2;102;102;102m0[38;2;102;102;102m < 15:48:17[30m(B[m[65C[7C[58C[38;2;102;102;102mbp.re2-7 | [38;2;102;102;102m0[38;2;102;102;102m < 15:48:17[30m(B[m[65C[7C[38;2;204;102;102mscr[38;2;150;152;150meen /dev/tty.usbserial-A4016VMX 115200[20C[30m(B[m[38;2;102;102;102mbp.re2-7 | [38;2;102;102;102m0[38;2;102;102;102m < 15:48:17[30m(B[m[65C[7C[38;2;204;102;102me[38;2;150;152;150men /dev/tty.usbserial-A4016VMX 115200[20C[30m(B[m[38;2;102;102;102mbp.re2-7 | [38;2;102;102;102m0[38;2;102;102;102m < 15:48:17[30m(B[m[65C[8C[57C[38;2;102;102;102mbp.re2-7 | [38;2;102;102;102m0[38;2;102;102;102m < 15:48:17[30m(B[m[65C[8C[38;2;204;102;102men /dev/tty.usbserial-A4016VMX 115200[20C[30m(B[m[38;2;102;102;102mbp.re2-7 | [38;2;102;102;102m0[38;2;102;102;102m < 15:48:17[30m(B[m[65C[45C[41D[38;2;178;148;187mscreen[30m(B[m [38;2;129;162;190m/dev/tty.usbserial-A4016VMX[30m(B[m [38;2;129;162;190m115200[20C[30m(B[m[38;2;102;102;102mbp.re2-7 | [38;2;102;102;102m0[38;2;102;102;102m < 15:48:17[30m(B[m[65C[45C[20C[38;2;102;102;102mbp.re2-7 | [38;2;102;102;102m0[38;2;102;102;102m < 15:48:17[30m(B[m[65C[45C
+[30m(B[m[?2004l]0;screen[30m(B[m[?1049h[!p[?3;4l[4l>[4l[?1h=[0m(B[1;23r[H[2J[H[2J
+# reboot
+Jul 21 15:48:27 reboot: rebooted by root
+ag7240_ring_free Freeing at 0xc015d800
+ag7240_ring_free Freeing at 0xc0165000
+pf_test6: kif == NULL, if_xname bridge0
+pf_test6: kif == NULL, if_xname bridge0
+syncing disks... done
+unmounting file systems... done
+rebooting...
+
+
+
+CFE version 1.4.2 for K31 (32bit,SP,BE,MIPS)
+Build Date: Mon Apr 23 17:50:12 PDT 2012 (root@twilight.apple.com)
+Atheros release version: 2012-1-15
+Copyright (C) 2000,2001,2002,2003,2004,2005 Broadcom Corporation.
+
+Initializing Arena.
+Initializing Devices.
+APPLE BOOTLOADER INFO: Apple CFE (bcm: 1.4.2 ath: 2012-1-15 apple: a4) Apr 23 2012 17:40:05
+AR934X_REV_ID:0x18060090=0x2123
+CPU PLL Locked in 1 attempt(s)
+DDR PLL Locked in 1 attempt(s)
+CPU_SQSUM=0x430007d0
+DDR_SQSUM=0x03002010
+Flash init...... 0x1000000 (16 MB)
+Eth init......
+ag7240_init: baseaddr = 19000000, unit = 0 sOneTime=0 
+ag7240_init: baseaddr = 1a000000, unit = 1 sOneTime=1 
+WASP ----> S27 PHY MDIO
+gpio read......0x0081331b/0x00037f20/0x00024800
+CPU type 0x1974C: 480MHz
+Total memory: 0x4000000 bytes (64MB)
+
+Total memory used by CFE:  0x83F85000 - 0x83FFFCA0 (502944)
+Initialized Data:          0x83FBBB60 - 0x83FBD7C0 (7264)
+BSS Area:                  0x83FBD7C0 - 0x83FBDCA0 (1248)
+Local Heap:                0x83FBDCA0 - 0x83FFDCA0 (262144)
+Stack Area:                0x83FFDCA0 - 0x83FFFCA0 (8192)
+Text (code) segment:       0x83F85000 - 0x83FB8E90 (212624)
+Boot area (physical):      0x03F44000 - 0x03F84000
+Relocation Factor:         I:E4385000 - D:E4385000
+
+Press any key to stop, OR autoboot will start in  1 s
+checking image at location bf200000
+checkimage():142 len=0x569520 adler=0xc1270d25
+image @ bf200000: adlers: computed=0xc1270d25, stored=0xc1270d25 
+Starting program at 0xbf200000
+
+
+>> NetBSD/MIPS Gzip Boot, Revision 1.2
+>> (root@twilight.apple.com, Tue Jan 22 21:44:27 PST 2013)
+>> GZBOOT_IMG_SIZE 1400000
+>> RAMd heap=0x82e10000, rsize=0x4000000, base[0]=0 
+>> RAMd 0x4000000 - rsize=ddr_find_size()=0x4000000, KDDR_SIZE_INCR=400000 
+>> RAM 0x0 - 0x3ffffff, 0x82f0ffffheap at 0x82e10000 (size 0x100000)
+>> Load address: md_root_loadaddr=0x80060000, Image address root_image=0xbf2057a0
+>> Load address: md_root_loadaddr/linkedAddress=0x80060000, compressed Image Begin=0xbf2057a0
+CP0:  0x80208480
+Uncompressing image...0x80060000/0xbf2057a0/0xbf2057a0/0x0|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-SUCCESS: CRC checksum match (read)f67d1358 == (computed)f67d1358 
+SUCCESS: total output match, 16239312 == 16239312
+done.
+Jumping to image @ 0x80060000...(0x80060000)
+
+sri
+   ar7240_cpu_freq = 500000000 cpu_id = 0x1974c 74k = 0x97
+[55CBooting WASP ...
+[16CPhysical memory pages: 16384
+[28CPage size: 4096 bytes
+[21CMIPS32/64 params: cpu arch: 128
+[31CMIPS32/64 params: TLB entries: 32
+[33CMIPS32/64 params: Icache: line = 32, total = 65536, ways=4 sets=512 (4 x 128)
+[77CMIPS32/64 params: Dcache: line = 32, total = 32768, ways=4 sets=256 (2 x 128)
+[77C  picache_stride    = 4096
+[26C  picache_loopcount = 16
+[24CNetBSD 4.0_STABLE #0: Tue Jan 22 21:41:02 PST 2013
+[50C[8Croot@twilight.apple.com:/SourceCache/K31/AirPortFW-76300.7/Embedded/Firmware/NetBSD/Targets/K31/release/obj/build.kernel-target.conf
+[52C
+total memory = 65536 KB
+[23Cavail memory = 47744 KB
+[23CMIPS 74K (0x1974c) Rev. 76 with software emulated floating point
+[64Ccpu0: 64KB/32B 4-way set-associative L1 Instruction cache, 32 TLB entries
+[73Ccpu0: 32KB/32B 4-way set-associative write-back L1 Data cache
+[61Cahb_match:
+[10Cahb0 (root)ahb_attach:
+[22Cstdflash_ahb_match: no match (artty)
+[36Ccom0 at ahb0: ns16550a, working fifo
+[36Ccom0: console
+[13Cstdflash_ahb_match: no match (applgpio)
+[39Capplgpio0 at ahb0[GPIO] Configured interrupt for pin  4, toggle, level, active-any
+[82C----- GPIOs -----
+[17CGPIO_OE:                0x0081331b
+[34CGPIO_IN:                0x00037b30
+[34CGPIO_OUT:               0x00024800
+[34CGPIO_INT_ENABLE:        0x00000010
+[34CGPIO_INT_TYPE:          0x00000010
+[34CGPIO_INT_POLARITY:      0x00000000
+[34CGPIO_INT_MASK:          0x00000010
+[34CGPIO_IN_ETH_SWITCH_LED: 0x000f8000
+[34CGPIO_OUT_FUNCTION0:     0x00000000
+[34CGPIO_OUT_FUNCTION1:     0x0b0a0914
+[34CGPIO_OUT_FUNCTION2:     0x00180000
+[34CGPIO_OUT_FUNCTION3:     0x00000000
+[34CGPIO_OUT_FUNCTION4:     0x0000004d
+[34CGPIO_OUT_FUNCTION5:     0x00000000
+[34CGPIO_IN_ENABLE0:        0x00000908
+[34CGPIO_IN_ENABLE1:        0x00000000
+[34CGPIO_IN_ENABLE2:        0x00000000
+[34CGPIO_IN_ENABLE3:        0x00000c0b
+[34CGPIO_IN_ENABLE4:        0x00000000
+[34CGPIO_IN_ENABLE5:        0x00000000
+[34CGPIO_IN_ENABLE6:        0x00000000
+[34CGPIO_IN_ENABLE7:        0x00000000
+[34CGPIO_IN_ENABLE8:        0x0d0f110e
+[34CGPIO_IN_ENABLE9:        0x00000000
+[34CGPIO_FUNCTIONS:         0x00000040
+[34C
+iicgpio0 at applgpio0 pins: [12, 13]
+[36Ciic0 at iicgpio0: I2C bus
+[25Ctmp51x0 at iic0 addr 0x5c: TMP512/513 Temperature and Power Supply Monitor
+[74Car7240_pci_init: PCIe PLL not set for 40MHz refclk
+[50C
+COUNT 1 sqsum_avg 6116 (min = 6116, max = 6116) sqsum_avg_fail 0 (min = 0, max = 0) pll_errs (1-5): 0 0 0 0 0 ltssm_errs (1-5): 0 0 0 0 0 unknown_errs 0
+[64CPCI: bus 0, device 0, function 0: id=33168c: Vendor=168c, Product=33
+[68CPCI: bus 0, device 0, function 0: Found dev 0x168c 0x0033 -- really probing.
+[76CPCI: bus 0, device 0, function 0: MEM64 BAR 0x10 has size 20000
+[63CPCI: bus 0, device 0, function 0: Register 0x10, memory size 131072
+[67CPCI: bus 0, device 0, function 0: MEM32 BAR 0x18 is void
+[56CPCI: bus 0, device 0, function 0: MEM32 BAR 0x1c is void
+[56CPCI: bus 0, device 0, function 0: MEM32 BAR 0x20 is void
+[56CPCI: bus 0, device 0, function 0: MEM32 BAR 0x24 is void
+[56CPCI: bus 0, device 0, function 0: Expansion ROM memory size 65536
+[65CPCI: bus 0, device 0, function 0: Putting 131072 MEM bytes @ 0x10000000 (reg 10)
+[80CPCI: bus 0, device 0, function 0: Putting 65536 ROM bytes @ 0x10020000 (reg 30)
+[79CPCI: bus 0, device 0, function 0: Configuring device.
+[53CPCI bus 0 configured
+[20Cpci0 at ahb0 bus 0
+[18Cpci0: memory space enabled, rd/line, rd/mult, wr/inv ok
+[55Cath1 at pci0 dev 0 function 0ath_pci_attach[242] ath_comm 0xc004d000 sc 0xc004d040 ret 0
+[87Car9300_eeprom_restore_internal[4095] No vaid CAL, calling default template
+[74CGPIO_SecondaryInit: gpioSecondaryInit = 0 0x11ea300037f30
+[57CGPIO_SecondaryInit-175: GPIOS are: 0x00011ea300037b30 
+[54CGPIO_SecondaryInit, gpioSecondaryInit...returning 
+[50Cwlan: mac acl policy registered
+[31Cath1: 11a rates: 6Mbps 9Mbps 12Mbps 18Mbps 24Mbps 36Mbps 48Mbps 54Mbps
+[70Cath1: 11b rates: 1Mbps 2Mbps 5.5Mbps 11Mbps
+[43Cath1: 11g rates: 1Mbps 2Mbps 5.5Mbps 11Mbps 6Mbps 9Mbps 12Mbps 18Mbps 24Mbps 36Mbps 48Mbps 54Mbps
+[9Cath1: 11na MCS: 15Mbps 30Mbps 45Mbps 60Mbps 90Mbps 120Mbps 135Mbps 150Mbps 30Mbps 60Mbps 90Mbps 120Mbps 180Mbps 240Mbps 270Mbps 300Mbps
+[47Cath1: 11ng MCS: 15Mbps 30Mbps 45Mbps 60Mbps 90Mbps 120Mbps 135Mbps 150Mbps 30Mbps 60Mbps 90Mbps 120Mbps 180Mbps 240Mbps 270Mbps 300Mbps
+[47CChan  Freq  CW  RegPwr  MinPwr  MaxPwr
+[38C   1  2412b 20    10.0    15.5    15.5
+[38C   1  2412g 20    10.0    15.5    15.5
+[38C   1  2412n 20    10.0    15.5    15.5
+[38C   2  2417b 20    10.0    15.5    15.5
+[38C   2  2417g 20    10.0    15.5    15.5
+[38C   2  2417n 20    10.0    15.5    15.5
+[38C   3  2422b 20    10.0    15.5    15.5
+[38C   3  2422g 20    10.0    15.5    15.5
+[38C   3  2422n 20    10.0    15.5    15.5
+[38C   4  2427b 20    10.0    15.5    15.5
+[38C   4  2427g 20    10.0    15.5    15.5
+[38C   4  2427n 20    10.0    15.5    15.5
+[38C   5  2432b 20    10.0    15.5    15.5
+[38C   5  2432g 20    10.0    15.5    15.5
+[38C   5  2432n 20    10.0    15.5    15.5
+[38C   6  2437b 20    10.0    15.5    15.5
+[38C   6  2437g 20    10.0    15.5    15.5
+[38C   6  2437n 20    10.0    15.5    15.5
+[38C   7  2442b 20    10.0    15.5    15.5
+[38C   7  2442g 20    10.0    15.5    15.5
+[38C   7  2442n 20    10.0    15.5    15.5
+[38C   8  2447b 20    10.0    15.5    15.5
+[38C   8  2447g 20    10.0    15.5    15.5
+[38C   8  2447n 20    10.0    15.5    15.5
+[38C   9  2452b 20    10.0    15.5    15.5
+[38C   9  2452g 20    10.0    15.5    15.5
+[38C   9  2452n 20    10.0    15.5    15.5
+[38C  10  2457b 20    10.0    15.5    15.5
+[38C  10  2457g 20    10.0    15.5    15.5
+[38C  10  2457n 20    10.0    15.5    15.5
+[38C  11  2462b 20    10.0    15.5    15.5
+[38C  11  2462g 20    10.0    15.5    15.5
+[38C  11  2462n 20    10.0    15.5    15.5
+[38C  12  2467b 20    10.0    15.5    15.5
+[38C  12  2467g 20    10.0    15.5    15.5
+[38C  12  2467n 20    10.0    15.5    15.5
+[38C  13  2472b 20    10.0    15.5    15.5
+[38C  13  2472g 20    10.0    15.5    15.5
+[38C  13  2472n 20    10.0    15.5    15.5
+[38C  36  5180a 20    15.0    15.5    15.5
+[38C  36  5180n 20    15.0    15.5    15.5
+[38C  36  5180n 40+   15.0    15.5    15.5
+[38C  40  5200a 20    15.0    15.5    15.5
+[38C  40  5200n 20    15.0    15.5    15.5
+[38C  40  5200n 40-   15.0    15.5    15.5
+[38C  44  5220a 20    15.0    15.5    15.5
+[38C  44  5220n 20    15.0    15.5    15.5
+[38C  44  5220n 40+   15.0    15.5    15.5
+[38C  48  5240a 20    15.0    15.5    15.5
+[38C  48  5240n 20    15.0    15.5    15.5
+[38C  48  5240n 40-   15.0    15.5    15.5
+[38C  52  5260a 20    15.0    15.5    15.5
+[38C  52  5260n 20    15.0    15.5    15.5
+[38C  52  5260n 40+   15.0    15.5    15.5
+[38C  56  5280a 20    15.0    15.5    15.5
+[38C  56  5280n 20    15.0    15.5    15.5
+[38C  56  5280n 40-   15.0    15.5    15.5
+[38C  60  5300a 20    15.0    15.5    15.5
+[38C  60  5300n 20    15.0    15.5    15.5
+[38C  60  5300n 40+   15.0    15.5    15.5
+[38C  64  5320a 20    15.0    15.5    15.5
+[38C  64  5320n 20    15.0    15.5    15.5
+[38C  64  5320n 40-   15.0    15.5    15.5
+[38C 100  5500a 20    10.0    15.5    15.5
+[38C 100  5500n 20    10.0    15.5    15.5
+[38C 100  5500n 40+   10.0    15.5    15.5
+[38C 104  5520a 20    10.0    15.5    15.5
+[38C 104  5520n 20    10.0    15.5    15.5
+[38C 104  5520n 40-   10.0    15.5    15.5
+[38C 108  5540a 20    10.0    15.5    15.5
+[38C 108  5540n 20    10.0    15.5    15.5
+[38C 108  5540n 40+   10.0    15.5    15.5
+[38C 112  5560a 20    10.0    15.5    15.5
+[38C 112  5560n 20    10.0    15.5    15.5
+[38C 112  5560n 40-   10.0    15.5    15.5
+[38C 116  5580a 20    10.0    15.5    15.5
+[38C 116  5580n 20    10.0    15.5    15.5
+[38C 116  5580n 40+   10.0    15.5    15.5
+[38C 120  5600a 20    10.0    15.5    15.5
+[38C 120  5600n 20    10.0    15.5    15.5
+[38C 120  5600n 40-   10.0    15.5    15.5
+[38C 124  5620a 20    10.0    15.5    15.5
+[38C 124  5620n 20    10.0    15.5    15.5
+[38C 124  5620n 40+   10.0    15.5    15.5
+[38C 128  5640a 20    10.0    15.5    15.5
+[38C 128  5640n 20    10.0    15.5    15.5
+[38C 128  5640n 40-   10.0    15.5    15.5
+[38C 132  5660a 20    10.0    15.5    15.5
+[38C 132  5660n 20    10.0    15.5    15.5
+[38C 132  5660n 40+   10.0    15.5    15.5
+[38C 136  5680a 20    10.0    15.5    15.5
+[38C 136  5680n 20    10.0    15.5    15.5
+[38C 136  5680n 40-   10.0    15.5    15.5
+[38C 140  5700a 20    10.0    15.5    15.5
+[38C 140  5700n 20    10.0    15.5    15.5
+[38C 149  5745a 20    15.0    15.5    15.5
+[38C 149  5745n 20    15.0    15.5    15.5
+[38C 149  5745n 40+   15.0    15.5    15.5
+[38C 153  5765a 20    15.0    15.5    15.5
+[38C 153  5765n 20    15.0    15.5    15.5
+[38C 153  5765n 40-   15.0    15.5    15.5
+[38C 157  5785a 20    15.0    15.5    15.5
+[38C 157  5785n 20    15.0    15.5    15.5
+[38C 157  5785n 40+   15.0    15.5    15.5
+[38C 161  5805a 20    15.0    15.5    15.5
+[38C 161  5805n 20    15.0    15.5    15.5
+[38C 161  5805n 40-   15.0    15.5    15.5
+[38C 165  5825a 20    15.0    15.5    15.5
+[38C 165  5825n 20    15.0    15.5    15.5
+[38Cath1: : ath_tx_paprd_init PAPRD disabled in HAL
+[47CCLTM: registering radio 0 - ath1
+[32Cath1: driver version 4.0.27.6
+[29Cath1: mac 448.4 phy 0.0 radio 0.0
+[33Cath1: Use hw queue 0 for WME_AC_BE traffic
+[42Cath1: Use hw queue 1 for WME_AC_BK traffic
+[42Cath1: Use hw queue 2 for WME_AC_VI traffic
+[42Cath1: Use hw queue 3 for WME_AC_VO traffic
+[42Cath1: Use hw queue 8 for CAB traffic
+[36Cath1: Use hw queue 9 for beacons
+[32Cattaching ath1 at PCI
+[21Cstdflash_ahb_match: matched
+[27Cstdflash0 at ahb0: onboard SPI NOR flash
+[40Cflash0 at stdflash0 00200000-00900000, untranslated, read/write
+[63Cflash1 at stdflash0 00900000-01000000, untranslated, read/write
+[63Cflash2 at stdflash0 000c0000-00200000, translated, read/write
+[61Cflash3 at stdflash0 00080000-000c0000, untranslated, read/write
+[63Cflash4 at stdflash0 00000000-00080000, untranslated, read/write
+[63Ceth0 at ahb0
+[12Ceth_attach: sc 0xc0095000 eth0 unit 0
+[37Cag7240_init: Length per segment 1536
+[36Cag7240_init: Max tx descriptor count 80
+[39Cag7240_init: Max rx descriptor count 252
+[40Cag7240_init: fifo cfg 3 01f00140
+[32Ceth0: driver version 0.0.2
+[26Ceth1 at ahb0
+[12Ceth_attach: sc 0xc00af800 eth1 unit 1
+[37Cag7240_init: Length per segment 1536
+[36Cag7240_init: Max tx descriptor count 80
+[39Cag7240_init: Max rx descriptor count 252
+[40Cag7240_init: fifo cfg 3 01f00140
+[32Ceth1: driver version 0.0.2
+[26Camdio0 at eth1: Management Data Interface
+[41Ciis0 at ahb0ath_i2s_set_srif_reg[1357] setup SRIF REG 
+[54Cehci0 at ahb0iot 0x80ff3514, ioh bb000100, iobase 1b000100, irq 3
+[65Cdone. reset 0x24044008 usb config 0x1d
+[38Cehci0: EHCI version 0.11
+[24Cusb0 at ehci0: USB revision 2.0, available bus power 100 mA
+[59Cuhub0 at usb0
+[13Cuhub0: vendor 0x0000 EHCI root hub, class 9/0, rev 2.00/1.00, addr 1
+[68Cehci0: self-powered device addr 1 (config 1) power 0 mA. Available power 100 mA (root)
+[86Cuhub0: 1 port with 1 removable, self powered
+[44Cath0 at ahb0: Atheros 9340
+[26CBootstrap clock 40MHz
+[21Car9300_eeprom_restore_internal[4095] No vaid CAL, calling default template
+[74Cath0: 11a rates: 6Mbps 9Mbps 12Mbps 18Mbps 24Mbps 36Mbps 48Mbps 54Mbps
+[70Cath0: 11b rates: 1Mbps 2Mbps 5.5Mbps 11Mbps
+[43Cath0: 11g rates: 1Mbps 2Mbps 5.5Mbps 11Mbps 6Mbps 9Mbps 12Mbps 18Mbps 24Mbps 36Mbps 48Mbps 54Mbps
+[9Cath0: 11na MCS: 15Mbps 30Mbps 45Mbps 60Mbps 90Mbps 120Mbps 135Mbps 150Mbps 30Mbps 60Mbps 90Mbps 120Mbps 180Mbps 240Mbps 270Mbps 300Mbps
+[47Cath0: 11ng MCS: 15Mbps 30Mbps 45Mbps 60Mbps 90Mbps 120Mbps 135Mbps 150Mbps 30Mbps 60Mbps 90Mbps 120Mbps 180Mbps 240Mbps 270Mbps 300Mbps
+[47CChan  Freq  CW  RegPwr  MinPwr  MaxPwr
+[38C   1  2412b 20    10.0    15.5    15.5
+[38C   1  2412g 20    10.0    15.5    15.5
+[38C   1  2412n 20    10.0    15.5    15.5
+[38C   2  2417b 20    10.0    15.5    15.5
+[38C   2  2417g 20    10.0    15.5    15.5
+[38C   2  2417n 20    10.0    15.5    15.5
+[38C   3  2422b 20    10.0    15.5    15.5
+[38C   3  2422g 20    10.0    15.5    15.5
+[38C   3  2422n 20    10.0    15.5    15.5
+[38C   4  2427b 20    10.0    15.5    15.5
+[38C   4  2427g 20    10.0    15.5    15.5
+[38C   4  2427n 20    10.0    15.5    15.5
+[38C   5  2432b 20    10.0    15.5    15.5
+[38C   5  2432g 20    10.0    15.5    15.5
+[38C   5  2432n 20    10.0    15.5    15.5
+[38C   6  2437b 20    10.0    15.5    15.5
+[38C   6  2437g 20    10.0    15.5    15.5
+[38C   6  2437n 20    10.0    15.5    15.5
+[38C   7  2442b 20    10.0    15.5    15.5
+[38C   7  2442g 20    10.0    15.5    15.5
+[38C   7  2442n 20    10.0    15.5    15.5
+[38C   8  2447b 20    10.0    15.5    15.5
+[38C   8  2447g 20    10.0    15.5    15.5
+[38C   8  2447n 20    10.0    15.5    15.5
+[38C   9  2452b 20    10.0    15.5    15.5
+[38C   9  2452g 20    10.0    15.5    15.5
+[38C   9  2452n 20    10.0    15.5    15.5
+[38C  10  2457b 20    10.0    15.5    15.5
+[38C  10  2457g 20    10.0    15.5    15.5
+[38C  10  2457n 20    10.0    15.5    15.5
+[38C  11  2462b 20    10.0    15.5    15.5
+[38C  11  2462g 20    10.0    15.5    15.5
+[38C  11  2462n 20    10.0    15.5    15.5
+[38C  12  2467b 20    10.0    15.5    15.5
+[38C  12  2467g 20    10.0    15.5    15.5
+[38C  12  2467n 20    10.0    15.5    15.5
+[38C  13  2472b 20    10.0    15.5    15.5
+[38C  13  2472g 20    10.0    15.5    15.5
+[38C  13  2472n 20    10.0    15.5    15.5
+[38C  36  5180a 20    15.0    15.5    15.5
+[38C  36  5180n 20    15.0    15.5    15.5
+[38C  36  5180n 40+   15.0    15.5    15.5
+[38C  40  5200a 20    15.0    15.5    15.5
+[38C  40  5200n 20    15.0    15.5    15.5
+[38C  40  5200n 40-   15.0    15.5    15.5
+[38C  44  5220a 20    15.0    15.5    15.5
+[38C  44  5220n 20    15.0    15.5    15.5
+[38C  44  5220n 40+   15.0    15.5    15.5
+[38C  48  5240a 20    15.0    15.5    15.5
+[38C  48  5240n 20    15.0    15.5    15.5
+[38C  48  5240n 40-   15.0    15.5    15.5
+[38C  52  5260a 20    15.0    15.5    15.5
+[38C  52  5260n 20    15.0    15.5    15.5
+[38C  52  5260n 40+   15.0    15.5    15.5
+[38C  56  5280a 20    15.0    15.5    15.5
+[38C  56  5280n 20    15.0    15.5    15.5
+[38C  56  5280n 40-   15.0    15.5    15.5
+[38C  60  5300a 20    15.0    15.5    15.5
+[38C  60  5300n 20    15.0    15.5    15.5
+[38C  60  5300n 40+   15.0    15.5    15.5
+[38C  64  5320a 20    15.0    15.5    15.5
+[38C  64  5320n 20    15.0    15.5    15.5
+[38C  64  5320n 40-   15.0    15.5    15.5
+[38C 100  5500a 20    10.0    15.5    15.5
+[38C 100  5500n 20    10.0    15.5    15.5
+[38C 100  5500n 40+   10.0    15.5    15.5
+[38C 104  5520a 20    10.0    15.5    15.5
+[38C 104  5520n 20    10.0    15.5    15.5
+[38C 104  5520n 40-   10.0    15.5    15.5
+[38C 108  5540a 20    10.0    15.5    15.5
+[38C 108  5540n 20    10.0    15.5    15.5
+[38C 108  5540n 40+   10.0    15.5    15.5
+[38C 112  5560a 20    10.0    15.5    15.5
+[38C 112  5560n 20    10.0    15.5    15.5
+[38C 112  5560n 40-   10.0    15.5    15.5
+[38C 116  5580a 20    10.0    15.5    15.5
+[38C 116  5580n 20    10.0    15.5    15.5
+[38C 116  5580n 40+   10.0    15.5    15.5
+[38C 120  5600a 20    10.0    15.5    15.5
+[38C 120  5600n 20    10.0    15.5    15.5
+[38C 120  5600n 40-   10.0    15.5    15.5
+[38C 124  5620a 20    10.0    15.5    15.5
+[38C 124  5620n 20    10.0    15.5    15.5
+[38C 124  5620n 40+   10.0    15.5    15.5
+[38C 128  5640a 20    10.0    15.5    15.5
+[38C 128  5640n 20    10.0    15.5    15.5
+[38C 128  5640n 40-   10.0    15.5    15.5
+[38C 132  5660a 20    10.0    15.5    15.5
+[38C 132  5660n 20    10.0    15.5    15.5
+[38C 132  5660n 40+   10.0    15.5    15.5
+[38C 136  5680a 20    10.0    15.5    15.5
+[38C 136  5680n 20    10.0    15.5    15.5
+[38C 136  5680n 40-   10.0    15.5    15.5
+[38C 140  5700a 20    10.0    15.5    15.5
+[38C 140  5700n 20    10.0    15.5    15.5
+[38C 149  5745a 20    15.0    15.5    15.5
+[38C 149  5745n 20    15.0    15.5    15.5
+[38C 149  5745n 40+   15.0    15.5    15.5
+[38C 153  5765a 20    15.0    15.5    15.5
+[38C 153  5765n 20    15.0    15.5    15.5
+[38C 153  5765n 40-   15.0    15.5    15.5
+[38C 157  5785a 20    15.0    15.5    15.5
+[38C 157  5785n 20    15.0    15.5    15.5
+[38C 157  5785n 40+   15.0    15.5    15.5
+[38C 161  5805a 20    15.0    15.5    15.5
+[38C 161  5805n 20    15.0    15.5    15.5
+[38C 161  5805n 40-   15.0    15.5    15.5
+[38C 165  5825a 20    15.0    15.5    15.5
+[38C 165  5825n 20    15.0    15.5    15.5
+[38Cath0: : ath_tx_paprd_init PAPRD disabled in HAL
+[47CCLTM: registering radio 0 - ath0
+[32Cath0: driver version 4.0.27.6
+[29Cath0: mac 768.3 phy 1638.6 radio 0.0
+[36Cath0: Use hw queue 0 for WME_AC_BE traffic
+[42Cath0: Use hw queue 1 for WME_AC_BK traffic
+[42Cath0: Use hw queue 2 for WME_AC_VI traffic
+[42Cath0: Use hw queue 3 for WME_AC_VO traffic
+[42Cath0: Use hw queue 8 for CAB traffic
+[36Cath0: Use hw queue 9 for beacons
+[32Cattaching ath0 at AHB
+[21Ccpu_initclocks
+[14Cmd0: internal 12300 KB image area
+[33CIPsec: Initialized Security Association Processing.
+[51CCLTM: Initializing
+[18CCLTM: Attaching sensor 0: Local Temp 1 (0)
+[42CCLTM: Attaching sensor 1: Remote Temp 1 (1)
+[43CCLTM: Attaching sensor 2: Remote Temp 2 (2)
+[43CCLTM: Attaching sensor 3: Remote Temp 3 (3)
+[43CCLTM: Attaching sensor 4: DC Voltage (4)
+[40CAtheros AR7240 (Python)
+[23Croot on md0a dumps on md0b
+[26Croot file system type: ffs
+[26CThu Jan  1 00:00:00 GMT 1970
+Starting file system checks:
+fsck_ffs: ioctl (DIOCGWEDGEINFO): Inappropriate ioctl for device
+/dev/rmd0a: file system is clean; not checking
+Setting tty flags.
+Setting sysctl variables:
+kern.defcorename: %n.core -> /tmp/%n.core
+kern.logsigexit: 0 -> 1
+sysctl: /etc/sysctl.conf#5: second level name 'lines' in 'ddb.lines' is invalid
+net.inet6.tcp6.mss_ifmtu: 0 -> 1
+Starting network.
+/etc/rc: WARNING: $hostname not set.
+IPv6 mode: host
+Configuring network interfaces:.
+Adding interface aliases:
+Building databases...
+Setting securelevel: kern.securelevel: 0 -> 1
+checking /dev/flash2a ...
+** /dev/rflash2a
+** File system is clean; not checking
+Mounting all filesystems...
+Starting acpd.
+Starting inetd.
+Starting cron.
+Thu Jan  1 00:00:04 GMT 1970
+Jan  1 00:00:04 Jan  1 00:00:04 CLTM: deregistering radio 0
+[59Cdfs_detach: sc_dfs is NULL
+[26CBootstrap clock 40MHz
+[21CRestoring Cal data from Flash
+[29Cath0: 11b rates: 1Mbps 2Mbps 5.5Mbps 11Mbps
+[43Cath0: 11g rates: 1Mbps 2Mbps 5.5Mbps 11Mbps 6Mbps 9Mbps 12Mbps 18Mbps 24Mbps 36Mbps 48Mbps 54Mbps
+[9Cath0: 11ng MCS: 15Mbps 30Mbps 45Mbps 60Mbps 90Mbps 120Mbps 135Mbps 150Mbps 30Mbps 60Mbps 90Mbps 120Mbps 180Mbps 240Mbps 270Mbps 300Mbps
+[47CChan  Freq  CW  RegPwr  MinPwr  MaxPwr
+[38C   1  2412b 20    10.0    15.5    15.5
+[38C   1  2412g 20    10.0    15.5    15.5
+[38C   1  2412n 20    10.0    15.5    15.5
+[38C   2  2417b 20    10.0    15.5    15.5
+[38C   2  2417g 20    10.0    15.5    15.5
+[38C   2  2417n 20    10.0    15.5    15.5
+[38C   3  2422b 20    10.0    15.5    15.5
+[38C   3  2422g 20    10.0    15.5    15.5
+[38C   3  2422n 20    10.0    15.5    15.5
+[38C   4  2427b 20    10.0    15.5    15.5
+[38C   4  2427g 20    10.0    15.5    15.5
+[38C   4  2427n 20    10.0    15.5    15.5
+[38C   5  2432b 20    10.0    15.5    15.5
+[38C   5  2432g 20    10.0    15.5    15.5
+[38C   5  2432n 20    10.0    15.5    15.5
+[38C   6  2437b 20    10.0    15.5    15.5
+[38C   6  2437g 20    10.0    15.5    15.5
+[38C   6  2437n 20    10.0    15.5    15.5
+[38C   7  2442b 20    10.0    15.5    15.5
+[38C   7  2442g 20    10.0    15.5    15.5
+[38C   7  2442n 20    10.0    15.5    15.5
+[38C   8  2447b 20    10.0    15.5    15.5
+[38C   8  2447g 20    10.0    15.5    15.5
+[38C   8  2447n 20    10.0    15.5    15.5
+[38C   9  2452b 20    10.0    15.5    15.5
+[38C   9  2452g 20    10.0    15.5    15.5
+[38C   9  2452n 20    10.0    15.5    15.5
+[38C  10  2457b 20    10.0    15.5    15.5
+[38C  10  2457g 20    10.0    15.5    15.5
+[38C  10  2457n 20    10.0    15.5    15.5
+[38C  11  2462b 20    10.0    15.5    15.5
+[38C  11  2462g 20    10.0    15.5    15.5
+[38C  11  2462n 20    10.0    15.5    15.5
+[38C  12  2467b 20    10.0    15.5    15.5
+[38C  12  2467g 20    10.0    15.5    15.5
+[38C  12  2467n 20    10.0    15.5    15.5
+[38C  13  2472b 20    10.0    15.5    15.5
+[38C  13  2472g 20    10.0    15.5    15.5
+[38C  13  2472n 20    10.0    15.5    15.5
+[38Cath0: : ath_tx_paprd_init PAPRD disabled in HAL
+[47CCLTM: registering radio 0 - ath0
+[32Cath0: driver version 4.0.27.6
+[29Cath0: mac 768.3 phy 1638.6 radio 0.0
+[36Cath0: Use hw queue 0 for WME_AC_BE traffic
+[42Cath0: Use hw queue 1 for WME_AC_BK traffic
+[42Cath0: Use hw queue 2 for WME_AC_VI traffic
+[42Cath0: Use hw queue 3 for WME_AC_VO traffic
+[42Cath0: Use hw queue 8 for CAB traffic
+[36Cath0: Use hw queue 9 for beacons
+[32Cag7240_open: ar7240_intr_establish 4 success
+[44Cag7240_ring_alloc Allocated 1280 at 0xc015d800
+[46Cag7240_ring_alloc: 2110
+[23Cag7240_ring_alloc Allocated 4032 at 0xc015e000
+[46Cag7240_ring_alloc: 2110
+[23Cag7240_rx_alloc filled 252 rx buffers for 0
+[43CVirian MDC CFG Value ==> 7
+[26Ceth: not setting up PHY (0)
+[27CMAC address:f0:d1:a9:0c:43:82
+[29CNot enabling interrupts yet...
+[30Cag7242_check_link: enet unit:0 phy:4 is up...
+[45CRGMii 100Mbps full duplex
+[25Cag7242_check_link: done cfg2 0x7115 ifctl 0x10000 miictrl
+[57Cag7240_open: ar7240_intr_establish 5 success
+[44Cag7240_ring_alloc Allocated 1280 at 0xc0100000
+[46Cag7240_ring_alloc: 2110
+[23Cag7240_ring_alloc Allocated 4032 at 0xc00d5000
+[46Cag7240_ring_alloc: 2110
+[23Cag7240_rx_alloc filled 252 rx buffers for 1
+[43CVirian MDC CFG Value ==> 7
+[26Ceth: not setting up PHY (1)
+[27CMAC address:🙈:🙈:🙈:🙈:🙈:🙈
+[29CNot enabling interrupts yet...
+[30Cag7242_check_link: enet unit:1 phy:-1 is up...
+[46CMii 1000Mbps full duplex
+[24Cag7242_check_link: done cfg2 0x7215 ifctl 0 miictrl
+[51Cath_vap_create: using slot 0 for vap opmode 4 ic_opmode 4 ath_opmode 6
+[70Cdfs is NULL dfs_init_radar_filtersath_vap_create: using slot 1 for vap opmode 1 ic_opmode 4 ath_opmode 1
+[16Cdfs_detach: sc_dfs is NULL
+[26CRestoring Cal data from Flash
+[29CGPIO_SecondaryInit: gpioSecondaryInit = 1 0x11ea300037e30
+[57C[GPIO] Configured interrupt for pin 37, toggle, edge, active-low
+[64C[GPIO] Configured interrupt for pin 38, toggle, edge, active-low
+[64C[GPIO] Configured interrupt for pin 39, toggle, edge, active-low
+[64Cath1: 11a rates: 6Mbps 9Mbps 12Mbps 18Mbps 24Mbps 36Mbps 48Mbps 54Mbps
+[70Cath1: 11na MCS: 15Mbps 30Mbps 45Mbps 60Mbps 90Mbps 120Mbps 135Mbps 150Mbps 30Mbps 60Mbps 90Mbps 120Mbps 180Mbps 240Mbps 270Mbps 300Mbps
+[47CChan  Freq  CW  RegPwr  MinPwr  MaxPwr
+[38C  36  5180a 20    15.0    15.5    15.5
+[38C  36  5180n 20    15.0    15.5    15.5
+[38C  36  5180n 40+   15.0    15.5    15.5
+[38C  40  5200a 20    15.0    15.5    15.5
+[38C  40  5200n 20    15.0    15.5    15.5
+[38C  40  5200n 40-   15.0    15.5    15.5
+[38C  44  5220a 20    15.0    15.5    15.5
+[38C  44  5220n 20    15.0    15.5    15.5
+[38C  44  5220n 40+   15.0    15.5    15.5
+[38C  48  5240a 20    15.0    15.5    15.5
+[38C  48  5240n 20    15.0    15.5    15.5
+[38C  48  5240n 40-   15.0    15.5    15.5
+[38C  52  5260a 20    15.0    15.5    15.5
+[38C  52  5260n 20    15.0    15.5    15.5
+[38C  52  5260n 40+   15.0    15.5    15.5
+[38C  56  5280a 20    15.0    15.5    15.5
+[38C  56  5280n 20    15.0    15.5    15.5
+[38C  56  5280n 40-   15.0    15.5    15.5
+[38C  60  5300a 20    15.0    15.5    15.5
+[38C  60  5300n 20    15.0    15.5    15.5
+[38C  60  5300n 40+   15.0    15.5    15.5
+[38C  64  5320a 20    15.0    15.5    15.5
+[38C  64  5320n 20    15.0    15.5    15.5
+[38C  64  5320n 40-   15.0    15.5    15.5
+[38C 100  5500a 20    10.0    15.5    15.5
+[38C 100  5500n 20    10.0    15.5    15.5
+[38C 100  5500n 40+   10.0    15.5    15.5
+[38C 104  5520a 20    10.0    15.5    15.5
+[38C 104  5520n 20    10.0    15.5    15.5
+[38C 104  5520n 40-   10.0    15.5    15.5
+[38C 108  5540a 20    10.0    15.5    15.5
+[38C 108  5540n 20    10.0    15.5    15.5
+[38C 108  5540n 40+   10.0    15.5    15.5
+[38C 112  5560a 20    10.0    15.5    15.5
+[38C 112  5560n 20    10.0    15.5    15.5
+[38C 112  5560n 40-   10.0    15.5    15.5
+[38C 116  5580a 20    10.0    15.5    15.5
+[38C 116  5580n 20    10.0    15.5    15.5
+[38C 116  5580n 40+   10.0    15.5    15.5
+[38C 120  5600a 20    10.0    15.5    15.5
+[38C 120  5600n 20    10.0    15.5    15.5
+[38C 120  5600n 40-   10.0    15.5    15.5
+[38C 124  5620a 20    10.0    15.5    15.5
+[38C 124  5620n 20    10.0    15.5    15.5
+[38C 124  5620n 40+   10.0    15.5    15.5
+[38C 128  5640a 20    10.0    15.5    15.5
+[38C 128  5640n 20    10.0    15.5    15.5
+[38C 128  5640n 40-   10.0    15.5    15.5
+[38C 132  5660a 20    10.0    15.5    15.5
+[38C 132  5660n 20    10.0    15.5    15.5
+[38C 132  5660n 40+   10.0    15.5    15.5
+[38C 136  5680a 20    10.0    15.5    15.5
+[38C 136  5680n 20    10.0    15.5    15.5
+[38C 136  5680n 40-   10.0    15.5    15.5
+[38C 140  5700a 20    10.0    15.5    15.5
+[38C 140  5700n 20    10.0    15.5    15.5
+[38C 149  5745a 20    15.0    15.5    15.5
+[38C 149  5745n 20    15.0    15.5    15.5
+[38C 149  5745n 40+   15.0    15.5    15.5
+[38C 153  5765a 20    15.0    15.5    15.5
+[38C 153  5765n 20    15.0    15.5    15.5
+[38C 153  5765n 40-   15.0    15.5    15.5
+[38C 157  5785a 20    15.0    15.5    15.5
+[38C 157  5785n 20    15.0    15.5    15.5
+[38C 157  5785n 40+   15.0    15.5    15.5
+[38C 161  5805a 20    15.0    15.5    15.5
+[38C 161  5805n 20    15.0    15.5    15.5
+[38C 161  5805n 40-   15.0    15.5    15.5
+[38C 165  5825a 20    15.0    15.5    15.5
+[38C 165  5825n 20    15.0    15.5    15.5
+[38Cath1: : ath_tx_paprd_init PAPRD disabled in HAL
+[47CCLTM: registering radio 1 - ath1
+[32Cath1: driver version 4.0.27.6
+[29Cath1: mac 448.4 phy 0.0 radio 0.0
+[33Cath1: Use hw queue 0 for WME_AC_BE traffic
+[42Cath1: Use hw queue 1 for WME_AC_BK traffic
+[42Cath1: Use hw queue 2 for WME_AC_VI traffic
+[42Cath1: Use hw queue 3 for WME_AC_VO traffic
+[42Cath1: Use hw queue 8 for CAB traffic
+[36Cath1: Use hw queue 9 for beacons
+[32C
+ath1: interrupting at 5GHz
+[26Cath_vap_create: using slot 0 for vap opmode 4 ic_opmode 4 ath_opmode 6
+[70Cdfs is NULL dfs_init_radar_filtersath_vap_create: using slot 1 for vap opmode 1 ic_opmode 4 ath_opmode 1
+[16CCLTM: Using 2.4GHz radio ath0
+[29CCLTM: Using 5GHz radio ath1
+[27Cag7240_ring_free Freeing at 0xc015d800
+[38Cag7240_ring_free Freeing at 0xc015e000
+[38Cag7240_ring_free Freeing at 0xc0100000
+[38Cag7240_ring_free Freeing at 0xc00d5000
+[38Cag7240_open: ar7240_intr_establish 5 success
+[44Cag7240_ring_alloc Allocated 1280 at 0xc015d800
+[46Cag7240_ring_alloc: 2110
+[23Cag7240_ring_alloc Allocated 4032 at 0xc015e000
+[46Cag7240_ring_alloc: 2110
+[23Cag7240_rx_alloc filled 252 rx buffers for 1
+[43CVirian MDC CFG Value ==> 7
+[26Ceth: not setting up PHY (1)
+[27CMAC address:::::
+[29CNot enabling interrupts yet...
+[30Cag7242_check_link: enet unit:1 phy:-1 is up...
+[46CMii 1000Mbps full duplex
+[24Cag7242_check_link: done cfg2 0x7215 ifctl 0 miictrl
+[51CDec 31 18:00:17 ath0: : ar9300_set_interrupts: WARNING: ah_ier_ref_count is 0 and attempting to enable IER
+[18Cath0: need promiscuous mode update callback
+[43C
+Apple AirPort Firmware
+Copyright (C) 2005-2012 Apple Inc. All rights reserved.
+console on ap-express
+Copyright (c) 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005,
+    2006, 2007
+    The NetBSD Foundation, Inc.  All rights reserved.
+Copyright (c) 1982, 1986, 1989, 1991, 1993
+    The Regents of the University of California.  All rights reserved.
+
+                                                                        Terminal type is vt100.
+ap-express# uname -a
+NetBSD ap-express 4.0_STABLE NetBSD 4.0_STABLE #0: Tue Jan 22 21:41:02 PST 2013  root@twilight.apple.com:/SourceCache/K31/AirPortFW-76300.7/Embedded/Firmware/NetBSD/Targets/K31/release/obj/build.kernel-target.conf ar7240
+ap-express# [7mReally kill this window [y/n][27m[Kap-express#                                                                             [23;13H[?1l>[23;1H
+[?1049l[screen is terminating]
+Script done on Sat Jul 21 15:49:46 2018
