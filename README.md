@@ -10,5 +10,12 @@
 > _You cannot help men permanently by doing for them what they will not do for themselves._<br />
 > Abraham Lincoln
 
-
 ### The [soon to be wiki](https://github.com/ipatch/theairportwiki/wiki) for TheAirPortWiki
+
+### GitHub wiki development
+
+When uploading a image within the `.wiki/lib` directory append the below URL in front of the image name within the `lib` dir to link against the image within this repo or wherever  🌈 else.
+
+```shell
+https://raw.githubusercontent.com/wiki/ipatch/theairportwiki/lib/
+```
