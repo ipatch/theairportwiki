@@ -7,10 +7,15 @@
 </div>
 <br />
 
-<div align="right">
+<div align="center">
 
 > _You cannot help men permanently by doing for them what they will not do for themselves._<br />
-> Abraham Lincoln
+
+</div>
+
+<div align="right">
+
+***- Abraham Lincoln***
 
 </div>
 
