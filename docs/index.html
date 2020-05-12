@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>TheAirPortWiki</title>
+  </head>
+  <body>
+    <h1>Hello, theairportwiki.com !</h1>
+
+    <p>
+      mediawiki site is no more, most if not all content that was there is [here](https://github.com/ipatch/theairportwiki)
+    </p>
+    
+    <script>
+      if (window.sessionStorage.path) {
+        let path = window.sessionStorage.path;
+        window.history.pushState(null, null, path);
+        window.sessionStorage.removeItem('path');
+      } else {
+        let path = window.location.pathname;
+        window.sessionStorage.path = path;
+        window.location.href = '/';
+      }
+    </script>
+
+
+  </body>
+</html>
+

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>TheAirPortWiki</title>
+  </head>
+  <body>
+    <script>
+      if (window.sessionStorage.path) {
+        let path = window.sessionStorage.path;
+        window.history.pushState(null, null, path);
+        window.sessionStorage.removeItem('path');
+      } else {
+        let path = window.location.pathname;
+        window.sessionStorage.path = path;
+        window.location.href = '/';
+      }
+    </script>
+  </body>
+</html>
+
