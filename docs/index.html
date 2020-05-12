@@ -1,15 +1,17 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-US">
   <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>TheAirPortWiki</title>
   </head>
   <body>
     <h1>Hello, theairportwiki.com !</h1>
-
     <p>
       mediawiki site is no more, most if not all content that was there is [here](https://github.com/ipatch/theairportwiki)
     </p>
-    
+
     <script>
       if (window.sessionStorage.path) {
         let path = window.sessionStorage.path;
@@ -20,6 +22,10 @@
         window.sessionStorage.path = path;
         window.location.href = '/';
       }
+    </script>
+
+    <script>
+      console.log('hello, github pages');
     </script>
 
 
