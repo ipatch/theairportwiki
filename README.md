@@ -49,7 +49,7 @@ When working with Apple Time Capsule disks for a modern GNU+Linux distro, ie. Ar
 
 ```shell
 echo "mount the tc disk"
-sudo -E mount.cifs //[tc.IP]/[PATH] [/local/path] -o "pass=[TC.DISK.PASSWORD],sec=ntlm,vers=1.0,file_mode=0777,dir_mode=0777,username=capin,uid=1000,gid=985"
+sudo -E mount.cifs //[tc.IP]/[PATH] [/local/path] -o "pass=[TC.DISK.PASSWORD],sec=ntlm,vers=1.0,file_mode=0777,dir_mode=0777,username=[$USER],uid=1000,gid=985"
 echo "copy cmd"
 rsync -a --no-o --no-g -h --info=progress2 -P /local/disk.qcow2 /local/path/
 ```
