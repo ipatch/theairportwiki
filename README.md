@@ -1,5 +1,5 @@
 <div align="center">
-<a href="http://webchat.freenode.net?channels=%23theairportwiki" target="_blank"><img src="https://img.shields.io/badge/irc.freenode.net-%23theairportwiki-blue.svg?style=flat"  height="20"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/libera.chat-#theairportwiki-blue.svg?style=flat"  height="20"></a>
 </div>
 <br />
 <div align="center">
