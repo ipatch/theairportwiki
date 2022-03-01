@@ -118,7 +118,7 @@ smbclient //SNOWBRICK
 smbclient //10.0.1.1
 ```
 
-to avoid having to the two options `--option='client min protocol=nt1' --option='client use spnego=no` everytime using the `smbclient` cmd add the below line to `/etc/samba/smb.conf`
+to avoid having to type the two options `--option='client min protocol=nt1' --option='client use spnego=no` everytime using the `smbclient` cmd add the below line to `/etc/samba/smb.conf`
 
 ```
 # smb.conf
