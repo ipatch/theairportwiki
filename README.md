@@ -106,7 +106,8 @@ smbclient -L \\SNOWBRICK
 
 ```
 smbclient \
-//SNOWBRICK/Data --option='client min protocol=nt1' --option='client use spnego=no' --password $TCPASSWORD
+//SNOWBRICK/Data --option='client min protocol=nt1' --option='client use spnego=no' \
+--password $TCPASSWORD
 ```
 
 i got the same results using all the servernames
