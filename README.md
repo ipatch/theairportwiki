@@ -105,7 +105,8 @@ smbclient -L \\SNOWBRICK
 ⚠️ since the apple time capsule is running netbsd v4.0 and such an old version of the samba server certain options will need to be set in order to interact with the server
 
 ```
-smbclient //SNOWBRICK/Data --option='client min protocol=nt1' --option='client use spnego=no' --password $TCPASSWORD
+smbclient \
+//SNOWBRICK/Data --option='client min protocol=nt1' --option='client use spnego=no' --password $TCPASSWORD
 ```
 
 i got the same results using all the servernames
