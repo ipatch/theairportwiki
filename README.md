@@ -65,7 +65,9 @@ Not exactly sure where the bottleneck on the network is arising, but my hunch ma
 to mount a time capsule shared disk using **cifs** as ~~afp~~ is being deprecated
 
 ```shell
-sudo -E mount -t cifs //10.0.1.1/Data /mnt/tc -o "pass=$TC_PASSWORD,sec=ntlm,vers=1.0,file_mode=0644,dir_mode=0777,username=$USER,uid=1000,gid=985,serverino,cache=loose,mapposix,rsize=1048576,wsize=1048576,mfsymlinks"
+sudo -E \ 
+mount -t cifs //10.0.1.1/Data /mnt/tc \ 
+-o "pass=$TC_PASSWORD,sec=ntlm,vers=1.0,file_mode=0644,dir_mode=0777,username=$USER,uid=1000,gid=985,serverino,cache=loose,mapposix,rsize=1048576,wsize=1048576,mfsymlinks"
 ```
 
 the above is useful for navigating  POSIX style symlinks throughout the filesystem
