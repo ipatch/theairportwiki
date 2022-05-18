@@ -60,6 +60,16 @@ Note, I'm averaging about 10MB/s using rsynce to copy a large ~ 60GB qcow file a
 
 Not exactly sure where the bottleneck on the network is arising, but my hunch makes me think write performance of the disk or server software running on the TC. (will test on a separate server in the future).
 
+### usage / gnu+linux / arch
+
+to mount a time capsule shared disk using **cifs** as ~~afp~~ is being deprecated
+
+```shell
+sudo -E mount -t cifs //10.0.1.1/Data /mnt/tc -o "pass=$TC_PASSWORD,sec=ntlm,vers=1.0,file_mode=0644,dir_mode=0777,username=$USER,uid=1000,gid=985,serverino,cache=loose,mapposix,rsize=1048576,wsize=1048576,mfsymlinks"
+```
+
+the above is useful for navigating  POSIX style symlinks throughout the filesystem
+
 ### Usage / `smbclient`
 
 went to down a bit of a rabbit hole today messing around with the `smbclient` cmd on my arch linux box, trying to connect to my time capsule using `smbclient`. i can obviously connect to it and mount with the above mentioned commands, but wanted to connect to it using `smbclient` just for the understanding of it.
